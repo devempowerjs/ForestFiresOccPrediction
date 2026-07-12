@@ -134,8 +134,11 @@ All evaluation metrics and visualizations are generated and saved in the `output
 - **Evaluation Metrics:** Accuracy, confusion matrix, ROC-AUC, precision-recall, feature importance
 - **Visual Insights:** Plots help understand model performance, feature effects, and data distribution
 
-## Author
-Mayank Raj (devempowerjs) | Student Innovator • Data Science Enthusiast • Eureka! Junior Asia Finalist (2025) • Building Real-World, Data Driven Projects
+## Author  
+
+Mayank Raj (devempowerjs)
+
+Building Software That Matters • Problem Solver • Open Source
 
 ## License
 
